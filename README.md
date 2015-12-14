@@ -44,3 +44,4 @@ The new piece here is repetition in the UI. The Angular Directive ng-repeat is u
 
 ```
 
+You can see the [project in action here](https://rhildred.github.io/angularaddingmachine). 
